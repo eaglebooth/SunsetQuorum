@@ -1,0 +1,17 @@
+{
+  "network": "Studio Next",
+  "chainId": 61997,
+  "contractAddress": "0xa6770B18d8784Aee27c217D1174799858D915B57",
+  "deployedSource": "contracts/sunset_quorum.py",
+  "sourceCommit": "52b21b74860980e0b734379b6230c71fdc40f1fa",
+  "runtime": "py-genlayer v0.2.16",
+  "sdk": "genlayer-js 1.1.8",
+  "deploymentTransaction": "0x6921277b300c1df558d68c7bb16c5b134efa38f07bb30db9412fc2ddee3def3a",
+  "deploymentTimestamp": "2026-09-24T08:45:14+07:00",
+  "controller": "0xeb57bc7125fa60d7482CE12058397369AB3581f8",
+  "operator": "0x2da5393d7BBb9A037dc3abB56DbbC5C150fc843f",
+  "serviceId": "sunset-demo-api",
+  "revision": 1,
+  "termsDigest": "b65a0b4d362f104dac887e33f143a0550fbfc079f7773f7a753f6c79a02ea0e2",
+  "executionReceipt": "ffa9c999bec29d0180569f3fb2093e1f44fc8f3b884cc59ebe30b3a228f50597"
+}

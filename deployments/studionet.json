@@ -2,6 +2,7 @@
   "network": "Studio Next",
   "chainId": 61997,
   "contractAddress": "0xa6770B18d8784Aee27c217D1174799858D915B57",
+  "frontend": "https://sunsetquorum.vercel.app",
   "deployedSource": "contracts/sunset_quorum.py",
   "sourceCommit": "52b21b74860980e0b734379b6230c71fdc40f1fa",
   "runtime": "py-genlayer v0.2.16",

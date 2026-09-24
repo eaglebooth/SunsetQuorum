@@ -4,7 +4,7 @@ Consumer-safe retirement of exact legacy API capabilities on GenLayer. The deplo
 
 Studionet contract: [`0xa6770B18d8784Aee27c217D1174799858D915B57`](https://explorer-studio.genlayer.com/address/0xa6770B18d8784Aee27c217D1174799858D915B57) (chain ID 61997).
 
-Live proof: [full Studionet lifecycle](docs/LIVE_STUDIONET_EVIDENCE.md) · [machine-readable deployment](deployments/studionet.json).
+Live app: [sunsetquorum.vercel.app](https://sunsetquorum.vercel.app) · Live proof: [full Studionet lifecycle](docs/LIVE_STUDIONET_EVIDENCE.md) · [machine-readable deployment](deployments/studionet.json).
 
 ## Authority and evidence
 
